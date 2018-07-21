@@ -3,7 +3,7 @@ var room = HBInit({
   roomName: "Peyloride | v3 | +24 | VPS | 7x24 açık", 
   maxPlayers: 8, 
   public: true, 
-  geo : {"code": "tr", "lat" : 41.142944, "lon" : 29.178202}
+  geo : {"code": "tr", "lat" : 41.7351, "lon" : 27.2252}
 });
 
   // If there are no admins left in the room give admin to one of the remaining players.
